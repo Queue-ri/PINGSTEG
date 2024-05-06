@@ -635,5 +635,12 @@ private: System::Void backgroundWorker2_DoWork(System::Object^  sender, System::
 }
 private: System::Void backgroundWorker2_RunWorkerCompleted(System::Object^  sender, System::ComponentModel::RunWorkerCompletedEventArgs^  e) {
 }
+
+
+#pragma region core functions
+
+	private: int encode_png(Form^ form, String^ sys_wrapper_name, String^ sys_data_name);
+
+#pragma endregion
 };
 }
