@@ -1,5 +1,19 @@
 # PINGSTEG
 
+[![Release Version](https://img.shields.io/github/release/Queue-ri/PINGSTEG.svg?style=flat-square)]()
+![GitHub License](https://img.shields.io/github/license/Queue-ri/PINGSTEG?style=flat-square)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<p><b>Built with</b>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="msvc_2022" width="20px" height="auto" />
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
+</p>
+
+<br />
+
 > Hide everything in a single PNG file.
 
 PINGSTEG는 컴팩트한 스테가노그래피 툴입니다.
