@@ -60,6 +60,11 @@ PINGSTEG이 추출 전 인코딩 방식, 데이터 파일명, 데이터 크기�
 
 <br />
 
-## Disclaimer
+# Dependency
+- [lodepng](https://github.com/lvandeve/lodepng)
+
+<br />
+
+# Disclaimer
 > [!WARNING]
 > 본 프로그램을 불법적으로 악용할 시 개발자는 이에 책임지지 않습니다.
