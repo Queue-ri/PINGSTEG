@@ -2,6 +2,7 @@
 
 [![Release Version](https://img.shields.io/github/release/Queue-ri/PINGSTEG.svg?style=flat-square)]()
 ![GitHub License](https://img.shields.io/github/license/Queue-ri/PINGSTEG?style=flat-square)
+![PR Welcome](https://img.shields.io/badge/PR-Welcome-29ab47ff?style=flat-square)
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -41,6 +42,19 @@ PNG 파일을 스테가노그래피로 인코딩합니다.
 PINGSTEG이 추출 전 인코딩 방식, 데이터 파일명, 데이터 크기를 보여줍니다.
 
 사용자는 해당 정보 확인 후 추출 여부를 결정할 수 있습니다.
+
+<br />
+
+## ✨ Future Supports
+```markdown
+# 📢 Announcement
+본 프로젝트는 대학교 1학년에 취미로 시작하여, 현재 리팩토링 진행 중에 있습니다.
+그에 따라 신규 기능은 천천히 추가될 예정입니다.
+```
+- 2, 3채널 LSB 인코딩 옵션 제공
+- 인코딩 메모리 부족 여부를 사전에 판단하도록 수정
+- 자체 암호화 옵션 제공
+- 인코딩 메모리가 부족해도 인코딩이 가능한 자체 알고리즘 추가
 
 <br />
 
