@@ -74,6 +74,17 @@ PINGSTEG이 추출 전 인코딩 방식, 데이터 파일명, 데이터 크기�
 
 <br />
 
+# Project Environment
+<img src="https://github.com/user-attachments/assets/3c130df4-0f09-4112-adb7-313afa4bcfb4" width="450px" height="auto" /><br />
+
+본 프로젝트는 .NET Framework를 기반으로 하는 CLR 프로젝트입니다.
+
+C++의 표준 확장인 C++/CLI를 채택하여 C#으로의 확장성을 열어두고 있습니다.
+
+[참고 문서](https://learn.microsoft.com/ko-kr/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-170)
+
+<br />
+
 # Dependency
 - [lodepng](https://github.com/lvandeve/lodepng)
 
