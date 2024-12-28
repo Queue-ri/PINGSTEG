@@ -15,6 +15,18 @@
 
 <br />
 
+# Do you see the *difference*?
+
+![Comparison](https://github.com/user-attachments/assets/c82a98f0-ab23-48f2-a07c-7a4648f91387)
+
+<br />
+
+# But there *IS* the *difference*.
+
+![Decode](https://github.com/user-attachments/assets/627593df-929e-4394-ae26-48edf946553f)
+
+
+
 > Hide everything in a single PNG file.
 
 PINGSTEG는 컴팩트한 스테가노그래피 툴입니다.
