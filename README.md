@@ -23,11 +23,9 @@
 
 # But there *IS* the *difference*.
 
-![Decode](https://github.com/user-attachments/assets/627593df-929e-4394-ae26-48edf946553f)
+![Decode](https://github.com/user-attachments/assets/3605b4eb-715f-41d6-94fc-7c7982c2dd98)
 
-
-
-> Hide everything in a single PNG file.
+> *Hide everything in a single PNG file.*
 
 PINGSTEG는 컴팩트한 스테가노그래피 툴입니다.
 
@@ -93,11 +91,12 @@ PINGSTEG이 추출 전 인코딩 방식, 데이터 파일명, 데이터 크기�
 
 C++의 표준 확장인 C++/CLI를 채택하여 C#으로의 확장성을 열어두고 있습니다.
 
-[참고 문서](https://learn.microsoft.com/ko-kr/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-170)
+[공식 참고 문서](https://learn.microsoft.com/ko-kr/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-170)
 
 <br />
 
 # Dependency
+의존 라이브러리는 프로젝트에 포함되어 있습니다.
 - [lodepng](https://github.com/lvandeve/lodepng)
 
 <br />
