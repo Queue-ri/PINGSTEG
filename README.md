@@ -85,7 +85,8 @@ PINGSTEG이 추출 전 인코딩 방식, 데이터 파일명, 데이터 크기�
 <br />
 
 # Project Environment
-<img src="https://github.com/user-attachments/assets/3c130df4-0f09-4112-adb7-313afa4bcfb4" width="450px" height="auto" /><br />
+
+![Managed](https://github.com/user-attachments/assets/327505b8-903f-4558-9899-d3eaac06dcc5)
 
 본 프로젝트는 .NET Framework를 기반으로 하는 CLR 프로젝트입니다.
 
