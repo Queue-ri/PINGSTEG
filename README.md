@@ -86,13 +86,19 @@ PINGSTEG이 추출 전 인코딩 방식, 데이터 파일명, 데이터 크기�
 
 # Project Environment
 
-![Managed](https://github.com/user-attachments/assets/327505b8-903f-4558-9899-d3eaac06dcc5)
-
 본 프로젝트는 .NET Framework를 기반으로 하는 CLR 프로젝트입니다.
 
 C++의 표준 확장인 C++/CLI를 채택하여 C#으로의 확장성을 열어두고 있습니다.
 
 [공식 참고 문서](https://learn.microsoft.com/ko-kr/cpp/dotnet/dotnet-programming-with-cpp-cli-visual-cpp?view=msvc-170)
+
+## Comparison
+![Managed](https://github.com/user-attachments/assets/327505b8-903f-4558-9899-d3eaac06dcc5)
+
+<br />
+
+## Compilation Phases
+![Compilation](https://github.com/user-attachments/assets/8081c628-38b2-41ef-8f6c-3a00e9aa023e)
 
 <br />
 
