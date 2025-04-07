@@ -142,10 +142,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Header.cpp" />
     <ClCompile Include="lodepng.cpp" />
     <ClCompile Include="Stegano.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Header.h" />
     <ClInclude Include="lodepng.h" />
     <ClInclude Include="Stegano.h">
       <FileType>CppForm</FileType>

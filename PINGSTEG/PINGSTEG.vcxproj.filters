@@ -21,6 +21,9 @@
     <ClCompile Include="lodepng.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Header.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Stegano.h">
@@ -29,12 +32,12 @@
     <ClInclude Include="lodepng.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Stegano.resx">
-      <Filter>리소스 파일</Filter>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Header.resx">
       <Filter>리소스 파일</Filter>
     </EmbeddedResource>
   </ItemGroup>
